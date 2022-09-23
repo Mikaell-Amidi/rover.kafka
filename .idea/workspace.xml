@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="207935a0-c48c-4525-860a-3d6762e1c532" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="2769SgOyDTUnZaqSDln4yFr14P6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module.004/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module.004/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/module.003/src/main/java/com/nordic/strategy" />
+      <recent name="$PROJECT_DIR$/module.003" />
+      <recent name="$PROJECT_DIR$/module.003/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module.004/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/module.001/src/main/java/com/nordic" />
+      <recent name="$PROJECT_DIR$/bootstrap/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nordic.base.context" />
+      <recent name="com.nordic.base.properties" />
+      <recent name="com.nordic.bootstrap.base.inspector" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EventHubPublisherSSL">
+    <configuration name="CEMTopology" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nordic.CEMTopology" />
+      <module name="module.003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nordic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CentralizedTopology" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nordic.CentralizedTopology" />
+      <module name="module.001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nordic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CpuMissCacheRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nordic.CpuMissCacheRate" />
+      <module name="module.003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nordic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributedTopology" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nordic.DistributedTopology" />
+      <module name="module.002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nordic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventHubPublisherSSL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nordic.EventHubPublisherSSL" />
+      <module name="module.004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nordic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bootstrap" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nordic.bootstrap.Bootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CentralizedTopology" />
+      <item itemvalue="Application.DistributedTopology" />
+      <item itemvalue="Application.CEMTopology" />
+      <item itemvalue="Application.CpuMissCacheRate" />
+      <item itemvalue="Application.EventHubPublisherSSL" />
+      <item itemvalue="Spring Boot.Bootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EventHubPublisherSSL" />
+        <item itemvalue="Application.CpuMissCacheRate" />
+        <item itemvalue="Application.DistributedTopology" />
+        <item itemvalue="Application.CEMTopology" />
+        <item itemvalue="Application.CentralizedTopology" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="207935a0-c48c-4525-860a-3d6762e1c532" name="Changes" comment="" />
+      <created>1648629669859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648629669859</updated>
+      <workItem from="1648629671204" duration="13469000" />
+      <workItem from="1648645205501" duration="8208000" />
+      <workItem from="1648706733370" duration="4253000" />
+      <workItem from="1648802518264" duration="16449000" />
+      <workItem from="1648831514765" duration="175000" />
+      <workItem from="1648841952132" duration="337000" />
+      <workItem from="1649018558912" duration="212000" />
+      <workItem from="1649051673619" duration="20702000" />
+      <workItem from="1649143881164" duration="4826000" />
+      <workItem from="1649151286062" duration="320000" />
+      <workItem from="1649163826360" duration="142000" />
+      <workItem from="1649165599080" duration="746000" />
+      <workItem from="1649167742997" duration="10000" />
+      <workItem from="1649228588398" duration="249000" />
+      <workItem from="1650029123844" duration="213000" />
+      <workItem from="1650447597837" duration="2726000" />
+      <workItem from="1650462912387" duration="73000" />
+      <workItem from="1650541034523" duration="96000" />
+      <workItem from="1650545944985" duration="1250000" />
+      <workItem from="1650613529619" duration="739000" />
+      <workItem from="1651220935401" duration="177000" />
+      <workItem from="1654004979108" duration="613000" />
+      <workItem from="1655798574035" duration="917000" />
+      <workItem from="1655820026623" duration="357000" />
+      <workItem from="1655821247217" duration="171000" />
+      <workItem from="1655884116513" duration="218000" />
+      <workItem from="1656057472719" duration="482000" />
+      <workItem from="1656488984958" duration="12000" />
+      <workItem from="1656920357993" duration="17000" />
+      <workItem from="1657013752163" duration="84000" />
+      <workItem from="1657094364588" duration="57000" />
+      <workItem from="1657627820286" duration="830000" />
+      <workItem from="1657630326190" duration="137000" />
+      <workItem from="1658143313329" duration="642000" />
+      <workItem from="1658144920942" duration="6167000" />
+      <workItem from="1658217825745" duration="3642000" />
+      <workItem from="1658235422834" duration="3873000" />
+      <workItem from="1658242846367" duration="657000" />
+      <workItem from="1658305436801" duration="9096000" />
+      <workItem from="1658321746185" duration="3000" />
+      <workItem from="1658323512262" duration="2655000" />
+      <workItem from="1658326892493" duration="1107000" />
+      <workItem from="1658409142500" duration="265000" />
+      <workItem from="1658409415413" duration="739000" />
+      <workItem from="1658473668176" duration="123000" />
+      <workItem from="1658481572601" duration="624000" />
+      <workItem from="1658482834636" duration="615000" />
+      <workItem from="1658487578723" duration="3168000" />
+      <workItem from="1658734899024" duration="345000" />
+      <workItem from="1658735465586" duration="347000" />
+      <workItem from="1658736420614" duration="8649000" />
+      <workItem from="1658826730269" duration="1660000" />
+      <workItem from="1658847585781" duration="599000" />
+      <workItem from="1658905414121" duration="212000" />
+      <workItem from="1658922018681" duration="948000" />
+      <workItem from="1658984847314" duration="2389000" />
+      <workItem from="1659538108795" duration="1219000" />
+      <workItem from="1659542538572" duration="2477000" />
+      <workItem from="1659605250854" duration="176000" />
+      <workItem from="1659607022514" duration="635000" />
+      <workItem from="1659618711774" duration="2842000" />
+      <workItem from="1659679197657" duration="172000" />
+      <workItem from="1659693619981" duration="612000" />
+      <workItem from="1660037218256" duration="2800000" />
+      <workItem from="1660047545351" duration="396000" />
+      <workItem from="1660053255506" duration="2101000" />
+      <workItem from="1660057031755" duration="1254000" />
+      <workItem from="1660120235571" duration="73000" />
+      <workItem from="1660292313869" duration="107000" />
+      <workItem from="1660294641259" duration="411000" />
+      <workItem from="1660298652643" duration="2053000" />
+      <workItem from="1660303558898" duration="853000" />
+      <workItem from="1660546226781" duration="1458000" />
+      <workItem from="1660547833877" duration="1184000" />
+      <workItem from="1660634344075" duration="4428000" />
+      <workItem from="1660722795578" duration="56000" />
+      <workItem from="1660725087585" duration="151000" />
+      <workItem from="1660893279264" duration="13101000" />
+      <workItem from="1660914175801" duration="1081000" />
+      <workItem from="1661169512542" duration="1234000" />
+      <workItem from="1661243852641" duration="108000" />
+      <workItem from="1661426638721" duration="280000" />
+      <workItem from="1661765899699" duration="764000" />
+      <workItem from="1661769745142" duration="1574000" />
+      <workItem from="1661772270319" duration="770000" />
+      <workItem from="1661844563130" duration="136000" />
+      <workItem from="1661846272139" duration="14000" />
+      <workItem from="1661856909047" duration="1002000" />
+      <workItem from="1661930403476" duration="364000" />
+      <workItem from="1661982128377" duration="309000" />
+      <workItem from="1662103230740" duration="185000" />
+      <workItem from="1662366773682" duration="2696000" />
+      <workItem from="1662371015463" duration="2345000" />
+      <workItem from="1662383153798" duration="605000" />
+      <workItem from="1662395727411" duration="599000" />
+      <workItem from="1662402742273" duration="607000" />
+      <workItem from="1662448414967" duration="89000" />
+      <workItem from="1662625292462" duration="75000" />
+      <workItem from="1662627070852" duration="520000" />
+      <workItem from="1662628063767" duration="2660000" />
+      <workItem from="1662631385347" duration="22000" />
+      <workItem from="1662638212608" duration="32000" />
+      <workItem from="1662710807766" duration="4074000" />
+      <workItem from="1662992297001" duration="110000" />
+      <workItem from="1663065008988" duration="118000" />
+      <workItem from="1663142462620" duration="629000" />
+      <workItem from="1663147559919" duration="44000" />
+      <workItem from="1663150266379" duration="205000" />
+      <workItem from="1663150489600" duration="1885000" />
+      <workItem from="1663229021827" duration="114000" />
+      <workItem from="1663314257703" duration="64000" />
+      <workItem from="1663576635500" duration="662000" />
+      <workItem from="1663676940616" duration="616000" />
+      <workItem from="1663758424767" duration="33000" />
+      <workItem from="1663764588353" duration="19000" />
+      <workItem from="1663840554558" duration="230000" />
+      <workItem from="1663930527342" duration="104000" />
+      <workItem from="1663931525400" duration="28000" />
+      <workItem from="1663941969842" duration="1400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
