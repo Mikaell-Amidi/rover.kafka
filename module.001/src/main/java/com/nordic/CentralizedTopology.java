@@ -15,10 +15,10 @@ public class CentralizedTopology {
         map.put("mail", System.out::println);
         map.put("navax", o -> System.out.println("the navax event with payload" + o));
 
-        Consumer<String> consumer = o-> System.out.println("no partition compatibility");
-
-        StreamDirector<String, String> stream = new StreamDirector<>(new StreamProperties()
-                .extract("localhost:9092", "quickstart-events", "latest"), Visitor.of(map, consumer));
+        StreamDirector<String, String> stream = new
+                StreamDirector<>(new StreamProperties()
+                .extract("localhost:9092", "quickstart-events", "latest"),
+                Visitor.of(map, System.out::println));
 
         stream.operate();
     }

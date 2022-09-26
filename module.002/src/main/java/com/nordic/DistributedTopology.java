@@ -13,7 +13,8 @@ public class DistributedTopology {
         StreamDirector<Object, Object> strategy = new StreamDirector<>(
                 r -> r.filter((u, v) -> Objects.nonNull(u)).filter((u, v) -> u.equals("mail"))
                         .foreach((key, value) -> System.out.println(key + " -> " + value)))
-                .add(kStream -> kStream.transform(HeaderProcessor::new).foreach((key, value) -> System.out.println(value)));
+                .add(kStream -> kStream.transform(HeaderProcessor::new)
+                        .foreach((key, value) -> System.out.println(value)));
 
         strategy.properties(new StreamProperties()
                 .extract("localhost:9092", "notification", "latest"));
